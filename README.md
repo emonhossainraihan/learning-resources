@@ -7,3 +7,4 @@
 - [learnui](https://learnui.design/)
 - [learnux](https://learnux.io/)
 - [flatironschool](https://flatironschool.com/free-courses/ux-ui-design-bootcamp-prep)
+- [uxblog](https://medium.com/uxblog/ux-youniversity-3a66374ea908)
