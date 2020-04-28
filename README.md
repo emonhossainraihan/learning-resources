@@ -1,6 +1,7 @@
 ## Table of Contents
 - [A complete list](https://github.com/lauragift21/awesome-learning-resources)
 - [UI design](#ui-design)
+- [redux-tutorials](https://github.com/markerikson/react-redux-links/blob/master/redux-tutorials.md)
 
 
 ## UI design
